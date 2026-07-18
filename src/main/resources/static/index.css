@@ -19,6 +19,7 @@ p{
  margin-right: 80px;
  margin: left 100px;;
 }
+<<<<<<< HEAD:src/main/resources/static/INDEX.css
 .navbar{
     border-style: solid;
     border-width: 1px;
@@ -32,3 +33,5 @@ p{
     text-decoration: none;
     color: black;
 }
+=======
+>>>>>>> 51a4decc592dac32a7485494ed54aae9da5cf0d4:src/main/resources/static/index.css
