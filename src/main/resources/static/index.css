@@ -3,12 +3,13 @@ body{
     text-align: center;
     color: blue;
     background-color:darkseagreen;
+
 }
 .navbar{
     background-color: white;
     border-style: solid;
     border-width: 1px;
-    border-color: black;
+    border-color: white;
     padding: 20px;
     text-align: center;
     font-size: 20px;
